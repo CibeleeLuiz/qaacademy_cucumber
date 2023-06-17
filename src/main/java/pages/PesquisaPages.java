@@ -1,8 +1,6 @@
 package pages;
 
 public class PesquisaPages {
-    @Override
-    public String barraDePesquisa {
-        return super.toString();
-    }
+    public String barraDePesquisa = "APjFqb";
+    public String linkPesquisa = "/html/body/div[1]/div[3]/form/div[1]/div[1]/div[4]/center/input[1]";
 }
